@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610192401228",
+    "project_id": "letstreat-d5028",
+    "storage_bucket": "letstreat-d5028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610192401228:android:47cb92a4dffccb871ca5e9",
+        "android_client_info": {
+          "package_name": "com.example.letstreat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDleSCC_FSGth0yjX8Onaq1f4VD3TAUJOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
